@@ -22,3 +22,15 @@ printf("Blocks = %d\n", (int)buf.st_blocks);
 
       return 0;
 }
+// user@user:~$ ./ex3_1
+// Inode = 64
+// Mode  = 4000
+// Nlink = 400
+// UID  = 0
+// GID = 6291456
+// SIZE = 2048
+// Atime = 8388608
+// Mtime = 1117338520
+// Ctime = 0
+// Blksize = 32768
+// Blocks = 8388608
